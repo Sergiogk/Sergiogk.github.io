@@ -42,13 +42,13 @@ Network and System Administrator, with 4 years' industry experience in Technical
 
 ### **Work History**
 
-*Network Administrator*
+**Network Administrator**
 
-*Semantic Technologies and Agritech Services Private Limited*
+**Semantic Technologies and Agritech Services Private Limited - 2021/01 to Present**
 
-*IT System Administration Intern*
+**IT System Administration Intern**
 
-*Maharashtra Knowledge Corporation Ltd, Pune, Maharashtra*
+**Maharashtra Knowledge Corporation Ltd, Pune, Maharashtra - 2017/08 to 2020/08**
 
 • Experience in installation of Windows, configuration, Technical troubleshooting, support of server Hardware, operating systems, Microsoft application software and peripherals, Linux, Ubuntu & Windows 7-10 and 2008r2
 
@@ -70,11 +70,11 @@ Network and System Administrator, with 4 years' industry experience in Technical
 
 ### Education
 
-2020 Bachelor of Science: Computer System Administration – 84 %
+2020 Bachelor of Science: Computer System Administration
 	 
-2017 Higher Secondary Certificate - 64 %
+2017 Higher Secondary Certificate
 
-2015 Secondary School Certificate - 55 %
+2015 Secondary School Certificate
  
 
 ### Accomplishments
