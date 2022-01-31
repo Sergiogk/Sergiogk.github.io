@@ -69,8 +69,8 @@ Network and System Administrator, with 4 years' industry experience in Technical
 • Created support documentation that empowered and enabled user community to extend skills, leverage system features and find resolutions to questions without intervention from support team.
 
 ### Education
-2020 Bachelor of Science: Computer System Administration
-	 Yashwantrao Chavan Maharashtra Open University – 84 %
+
+2020 Bachelor of Science: Computer System Administration – 84 %
 	 
 2017 Higher Secondary Certificate - 64 %
 
