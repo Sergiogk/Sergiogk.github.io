@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+# Ganesh Rajendra Kadam
 
-You can use the [editor on GitHub](https://github.com/Sergiogk/Sergiogk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**IT Network Administrator**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Address Mayur Colony Kothrud, Pune, Maharashtra 411038
 
-### Markdown
+Phone 899 939 3502
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+E-mail ganeshkadam2899@gmail.com
 
-```markdown
-Syntax highlighted code block
+## CAREER OBJECTIVE
 
-# Header 1
-## Header 2
-### Header 3
+To obtain an opportunity where I can use my skills and knowledge to help the organization and, I want to excel in this field with hard work and dedication.
 
-- Bulleted
-- List
+## CURRENT PROFILE
 
-1. Numbered
-2. List
+Network and System Administrator, with 4 years' industry experience in Technical Infrastructure Development, IT Network Administration. working as an IT Infrastructure Network administrator with Semantic Technologies and Maharashtra Knowledge Corporation Ltd.
 
-**Bold** and _Italic_ and `Code` text
+### IT Skills
 
-[Link](url) and ![Image](src)
-```
+• Network infrastructure connectivity
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+• Sound knowledge of Network management Network and Infrastructure Monitoring
 
-### Jekyll Themes
+• RAM, Hard Disk up gradation, Troubleshooting hardware issues Desktop support technical issues analysis
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sergiogk/Sergiogk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+• Good knowledge of all the hardware devices and their management of firewall management (Cyberoam)
 
-### Support or Contact
+• Sound knowledge of various operating systems Flexible to work in all conditions
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Key Skill
+
+• Ability to work under pressure
+
+• Leadership
+
+• Management skills
+
+• Problem-solving
+
+• Time management
+
+### **Work History**
+
+*Network Administrator*
+
+*Semantic Technologies and Agritech Services Private Limited*
+
+*IT System Administration Intern*
+
+*Maharashtra Knowledge Corporation Ltd, Pune, Maharashtra*
+
+• Experience in installation of Windows, configuration, Technical troubleshooting, support of server Hardware, operating systems, Microsoft application software and peripherals, Linux, Ubuntu & Windows 7-10 and 2008r2
+
+• Troubleshooting of Virus Related Problems using Shareware & Licensed Antivirus Software Packages.
+
+• Microsoft Outlook, Outlook Express configuration, backup, troubleshooting.
+
+• Provided the eLearning Technical help desk Remote support & using following software Team Viewer, Ammyy Remote Software, Remote Desktop.
+
+• Configuring & Managing DNS, DHCP & Active Directory.
+
+• Web and database server deployments for production environment.
+
+• Determined hardware and network system issues using effective troubleshooting techniques.
+
+• Created help desk tickets, troubleshot, and resolved desktop issues.
+
+• Created support documentation that empowered and enabled user community to extend skills, leverage system features and find resolutions to questions without intervention from support team.
+
+### Education
+2020 Bachelor of Science: Computer System Administration
+	 Yashwantrao Chavan Maharashtra Open University – 84 %
+	 
+2017 Higher Secondary Certificate - 64 %
+
+2015 Secondary School Certificate - 55 %
+ 
+
+### Accomplishments
+
+**Udemy Course:**
+
+• Fundamentals of computer hacking
+
+• Linux basic command lines
+
+• AWS VPC and VPN
+
+• Won Outstanding Player Medal MKCL's Cricket tournament in sports day celebrated in office
+
+### Languages
+
+Marathi, Hindi, English
+
+### Hobbies
+
+Cricket, Swimming.
