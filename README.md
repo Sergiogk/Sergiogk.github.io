@@ -2,11 +2,11 @@
 
 **IT Network Administrator**
 
-Address Mayur Colony Kothrud, Pune, Maharashtra 411038
+Address:- Mayur Colony Kothrud, Pune, Maharashtra 411038
 
-Phone 899 939 3502
+Phone :-  899 939 3502
 
-E-mail ganeshkadam2899@gmail.com
+E-mail :- ganeshkadam2899@gmail.com
 
 ## CAREER OBJECTIVE
 
@@ -44,11 +44,11 @@ Network and System Administrator, with 4 years' industry experience in Technical
 
 **Network Administrator**
 
-**Semantic Technologies and Agritech Services Private Limited - 2021/01 to Present**
+**Semantic Technologies and Agritech Services Private Limited** - 2021/01 to Present
 
 **IT System Administration Intern**
 
-**Maharashtra Knowledge Corporation Ltd, Pune, Maharashtra - 2017/08 to 2020/08**
+**Maharashtra Knowledge Corporation Ltd, Pune, Maharashtra** - 2017/08 to 2020/08
 
 • Experience in installation of Windows, configuration, Technical troubleshooting, support of server Hardware, operating systems, Microsoft application software and peripherals, Linux, Ubuntu & Windows 7-10 and 2008r2
 
@@ -70,11 +70,11 @@ Network and System Administrator, with 4 years' industry experience in Technical
 
 ### Education
 
-2020 Bachelor of Science: Computer System Administration
+2020 - Bachelor of Science: Computer System Administration
 	 
-2017 Higher Secondary Certificate
+2017 - Higher Secondary Certificate
 
-2015 Secondary School Certificate
+2015 - Secondary School Certificate
  
 
 ### Accomplishments
